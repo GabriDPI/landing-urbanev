@@ -1,0 +1,6 @@
+{
+  "name": "UrbanEV Landing Page",
+  "description": "Landing page de alta conversión para venta de carritos eléctricos urbanos de moda en China, con paleta de colores de Google.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
